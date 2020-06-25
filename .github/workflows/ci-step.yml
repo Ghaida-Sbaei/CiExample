@@ -28,7 +28,7 @@ jobs:
         
         
     - name: build and test with Maven
-      run: chmod +x && ./mvnw test
+      run: chmod +x ./mnvw && ./mvnw test
         
    
 
